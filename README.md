@@ -8,5 +8,5 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="RafaelFerreira-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="RafaelFerreira-BashScript" height="40" width="40" src="https://image.flaticon.com/icons/png/512/919/919837.png">
- 
+ <img align="right" alt="RafaelFerreira-BashScript" height="100"width="100" src="https://i.ibb.co/MZqRPWC/Imagem1-1.png">
 </div>  
