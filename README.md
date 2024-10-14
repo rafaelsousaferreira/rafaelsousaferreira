@@ -1,4 +1,4 @@
-## Olá! Sou Rafael Ferreira :)
+## Olá! Sou Rafael Ferreira ☕
 
  <div>
   <a href="https://github.com/rafaelsousaferreira">
